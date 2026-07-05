@@ -1,0 +1,12 @@
+{
+  "currency": "GBP",
+  "outboundDate": "2027-04-10",
+  "returnDate": "2027-05-01",
+  "adults": 1,
+  "routes": [
+    { "origin": "MAN", "originName": "Manchester", "destination": "MNL", "destinationName": "Manila" },
+    { "origin": "MAN", "originName": "Manchester", "destination": "CEB", "destinationName": "Cebu" },
+    { "origin": "LHR", "originName": "London Heathrow", "destination": "MNL", "destinationName": "Manila" },
+    { "origin": "LHR", "originName": "London Heathrow", "destination": "CEB", "destinationName": "Cebu" }
+  ]
+}

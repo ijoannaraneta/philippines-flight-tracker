@@ -1,0 +1,264 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  background: radial-gradient(1200px 600px at 70% -10%, #1e2a4a 0%, #0f1420 55%) #0f1420;
+  color: #e8ecf4;
+  min-height: 100vh;
+}
+
+.shell {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 20px 48px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.plane {
+  color: #60a5fa;
+}
+
+.subtitle {
+  margin: 6px 0 0;
+  color: #8b93a7;
+  font-size: 14px;
+}
+
+.route-tabs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+  margin: 24px 0;
+}
+
+.tab {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  padding: 14px 16px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  color: #e8ecf4;
+  cursor: pointer;
+  text-align: left;
+  transition: border-color 0.15s, background 0.15s;
+  font-family: inherit;
+}
+
+.tab:hover {
+  border-color: rgba(96, 165, 250, 0.5);
+}
+
+.tab.active {
+  background: rgba(96, 165, 250, 0.12);
+  border-color: #60a5fa;
+}
+
+.tab-route {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.tab-names {
+  font-size: 12px;
+  color: #8b93a7;
+}
+
+.tab-price {
+  margin-top: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #34d399;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 14px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card h2 {
+  margin: 0 0 14px;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.card-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.fetched-at {
+  font-size: 12px;
+  font-weight: 500;
+  color: #8b93a7;
+}
+
+.filters {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.filters label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #8b93a7;
+}
+
+.filters select,
+.filters input {
+  background: #1b2130;
+  color: #e8ecf4;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  padding: 7px 10px;
+  font-size: 13px;
+  font-family: inherit;
+  min-width: 130px;
+}
+
+.table-wrap {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13.5px;
+}
+
+th {
+  text-align: left;
+  padding: 10px 12px;
+  color: #8b93a7;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+td {
+  padding: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  vertical-align: top;
+}
+
+.price {
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.currency {
+  font-size: 11px;
+  color: #8b93a7;
+  font-weight: 500;
+}
+
+.muted {
+  color: #8b93a7;
+}
+
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 700;
+  margin-right: 4px;
+  cursor: help;
+}
+
+.badge-good {
+  background: rgba(52, 211, 153, 0.15);
+  color: #34d399;
+}
+
+.badge-ok {
+  background: rgba(96, 165, 250, 0.15);
+  color: #60a5fa;
+}
+
+.badge-warn {
+  background: rgba(251, 191, 36, 0.15);
+  color: #fbbf24;
+}
+
+.badge-danger {
+  background: rgba(248, 113, 113, 0.18);
+  color: #f87171;
+}
+
+.badge-unknown {
+  background: rgba(139, 147, 167, 0.15);
+  color: #8b93a7;
+}
+
+.deal {
+  margin-left: 8px;
+  cursor: default;
+}
+
+.stops {
+  font-weight: 600;
+}
+
+.stops-0 {
+  color: #34d399;
+}
+
+.stops-1 {
+  color: #e8ecf4;
+}
+
+.stops-2 {
+  color: #fbbf24;
+}
+
+.empty-state {
+  padding: 40px;
+  text-align: center;
+  color: #8b93a7;
+  font-size: 14px;
+}
+
+.chart-wrap {
+  margin-top: 8px;
+}
+
+footer {
+  color: #8b93a7;
+  font-size: 12.5px;
+  line-height: 1.6;
+}
+
+footer code {
+  background: rgba(255, 255, 255, 0.07);
+  padding: 1px 6px;
+  border-radius: 5px;
+}

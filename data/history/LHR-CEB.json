@@ -1,0 +1,191 @@
+[
+  {
+    "fetchedAt": "2026-07-05T19:14:40.888Z",
+    "outboundDate": "2027-04-10",
+    "returnDate": "2027-05-01",
+    "currency": "GBP",
+    "cheapestPrice": 659,
+    "options": [
+      {
+        "airlines": [
+          "Saudia"
+        ],
+        "price": 659,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "King Abdulaziz International Airport",
+            "code": "JED",
+            "durationMinutes": 344
+          }
+        ],
+        "totalDurationMinutes": 1308,
+        "departureTime": "2027-04-10 17:20",
+        "arrivalTime": "",
+        "flightNumbers": [
+          "SA 499"
+        ]
+      },
+      {
+        "airlines": [
+          "China Southern"
+        ],
+        "price": 663,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Guangzhou Baiyun International Airport",
+            "code": "CAN",
+            "durationMinutes": 137
+          }
+        ],
+        "totalDurationMinutes": 1120,
+        "departureTime": "2027-04-10 09:10",
+        "arrivalTime": "",
+        "flightNumbers": [
+          "CH 534"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 786,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 342
+          }
+        ],
+        "totalDurationMinutes": 1329,
+        "departureTime": "2027-04-10 16:20",
+        "arrivalTime": "",
+        "flightNumbers": [
+          "CA 868"
+        ]
+      },
+      {
+        "airlines": [
+          "Etihad Airways"
+        ],
+        "price": 808,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Zayed International Airport",
+            "code": "AUH",
+            "durationMinutes": 322
+          }
+        ],
+        "totalDurationMinutes": 1262,
+        "departureTime": "2027-04-10 19:40",
+        "arrivalTime": "",
+        "flightNumbers": [
+          "ET 33"
+        ]
+      },
+      {
+        "airlines": [
+          "EVA Air"
+        ],
+        "price": 828,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Taiwan Taoyuan International Airport",
+            "code": "TPE",
+            "durationMinutes": 305
+          }
+        ],
+        "totalDurationMinutes": 1343,
+        "departureTime": "2027-04-10 14:40",
+        "arrivalTime": "",
+        "flightNumbers": [
+          "EV 978"
+        ]
+      },
+      {
+        "airlines": [
+          "Turkish Airlines"
+        ],
+        "price": 837,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Istanbul Airport",
+            "code": "IST",
+            "durationMinutes": 216
+          }
+        ],
+        "totalDurationMinutes": 1203,
+        "departureTime": "2027-04-10 17:10",
+        "arrivalTime": "",
+        "flightNumbers": [
+          "TU 308"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways"
+        ],
+        "price": 849,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 335
+          }
+        ],
+        "totalDurationMinutes": 1261,
+        "departureTime": "2027-04-10 14:20",
+        "arrivalTime": "",
+        "flightNumbers": [
+          "QA 943"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 923,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 92
+          }
+        ],
+        "totalDurationMinutes": 1225,
+        "departureTime": "2027-04-10 13:40",
+        "arrivalTime": "",
+        "flightNumbers": [
+          "EM 939"
+        ]
+      },
+      {
+        "airlines": [
+          "Singapore Airlines"
+        ],
+        "price": 929,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Singapore Changi Airport",
+            "code": "SIN",
+            "durationMinutes": 196
+          }
+        ],
+        "totalDurationMinutes": 1280,
+        "departureTime": "2027-04-10 20:10",
+        "arrivalTime": "",
+        "flightNumbers": [
+          "SI 405"
+        ]
+      }
+    ]
+  }
+]

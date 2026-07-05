@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/data.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/filters.tsx","./src/components/flighttable.tsx","./src/components/pricechart.tsx","./src/components/safetybadge.tsx"],"version":"5.9.3"}

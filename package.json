@@ -1,0 +1,17 @@
+{
+  "name": "philippines-flight-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tracks flight prices from Manchester/London Heathrow to Manila/Cebu",
+  "scripts": {
+    "fetch": "tsx scripts/fetch-prices.ts",
+    "fetch:mock": "tsx scripts/fetch-prices.ts --mock",
+    "sync-data": "node scripts/sync-data.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "tsx": "^4.16.0",
+    "typescript": "^5.5.0"
+  }
+}
