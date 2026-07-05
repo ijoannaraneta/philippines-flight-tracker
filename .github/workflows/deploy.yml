@@ -32,7 +32,7 @@ jobs:
 
       - name: Install dashboard dependencies
         working-directory: web
-        run: npm install
+        run: npm ci
 
       - name: Build dashboard
         working-directory: web
