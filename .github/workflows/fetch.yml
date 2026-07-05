@@ -5,6 +5,9 @@ on:
     # Every 2 days at 06:30 UTC. ~15 runs x 4 searches = ~60 SerpAPI searches/month.
     - cron: "30 6 */2 * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["config/routes.json"]
 
 permissions:
   contents: write

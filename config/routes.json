@@ -1,4 +1,5 @@
 {
+  "_comment": "Editing this file triggers a fresh price fetch. Dates are YYYY-MM-DD.",
   "currency": "GBP",
   "outboundDate": "2027-04-10",
   "returnDate": "2027-05-01",
