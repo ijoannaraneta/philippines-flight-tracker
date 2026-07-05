@@ -182,5 +182,260 @@
         ]
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-07-05T20:49:08.665Z",
+    "outboundDate": "2027-04-30",
+    "returnDate": "2027-05-22",
+    "currency": "GBP",
+    "cheapestPrice": 795,
+    "options": [
+      {
+        "airlines": [
+          "SWISS",
+          "Cathay Pacific"
+        ],
+        "price": 795,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 50
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 920
+          }
+        ],
+        "totalDurationMinutes": 1990,
+        "departureTime": "2027-04-30 18:40",
+        "arrivalTime": "2027-05-02 10:50",
+        "flightNumbers": [
+          "LX 381",
+          "LX 138",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "SWISS",
+          "Cathay Pacific"
+        ],
+        "price": 842,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 90
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1130,
+        "departureTime": "2027-04-30 09:00",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "LX 391",
+          "CX 382",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 1003,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 80
+          }
+        ],
+        "totalDurationMinutes": 1000,
+        "departureTime": "2027-04-30 11:10",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "CX 216",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways",
+          "Philippine Airlines"
+        ],
+        "price": 1012,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 105
+          },
+          {
+            "airport": "Ninoy Aquino International Airport",
+            "code": "MNL",
+            "durationMinutes": 135
+          }
+        ],
+        "totalDurationMinutes": 1335,
+        "departureTime": "2027-04-30 14:55",
+        "arrivalTime": "2027-05-01 20:10",
+        "flightNumbers": [
+          "QR 28",
+          "PR 685",
+          "PR 2861"
+        ]
+      },
+      {
+        "airlines": [
+          "Singapore Airlines"
+        ],
+        "price": 1033,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Singapore Changi Airport",
+            "code": "SIN",
+            "durationMinutes": 240
+          }
+        ],
+        "totalDurationMinutes": 1275,
+        "departureTime": "2027-04-30 10:35",
+        "arrivalTime": "2027-05-01 14:50",
+        "flightNumbers": [
+          "SQ 301",
+          "SQ 900"
+        ]
+      },
+      {
+        "airlines": [
+          "British Airways",
+          "Cathay Pacific"
+        ],
+        "price": 1064,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Heathrow Airport",
+            "code": "LHR",
+            "durationMinutes": 295
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 70
+          }
+        ],
+        "totalDurationMinutes": 1375,
+        "departureTime": "2027-04-30 12:15",
+        "arrivalTime": "2027-05-01 18:10",
+        "flightNumbers": [
+          "BA 1363",
+          "CX 250",
+          "CX 925"
+        ]
+      },
+      {
+        "airlines": [
+          "British Airways",
+          "Cathay Pacific"
+        ],
+        "price": 1064,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Heathrow Airport",
+            "code": "LHR",
+            "durationMinutes": 215
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 165
+          }
+        ],
+        "totalDurationMinutes": 1375,
+        "departureTime": "2027-04-30 12:15",
+        "arrivalTime": "2027-05-01 18:10",
+        "flightNumbers": [
+          "BA 1363",
+          "CX 238",
+          "CX 925"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1109,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 150
+          }
+        ],
+        "totalDurationMinutes": 1125,
+        "departureTime": "2027-04-30 14:05",
+        "arrivalTime": "2027-05-01 15:50",
+        "flightNumbers": [
+          "EK 18",
+          "EK 338"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways"
+        ],
+        "price": 1148,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 185
+          }
+        ],
+        "totalDurationMinutes": 1200,
+        "departureTime": "2027-04-30 14:55",
+        "arrivalTime": "2027-05-01 17:55",
+        "flightNumbers": [
+          "QR 28",
+          "QR 936"
+        ]
+      },
+      {
+        "airlines": [
+          "Singapore Airlines",
+          "Scoot"
+        ],
+        "price": 1154,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Singapore Changi Airport",
+            "code": "SIN",
+            "durationMinutes": 65
+          }
+        ],
+        "totalDurationMinutes": 1100,
+        "departureTime": "2027-04-30 10:35",
+        "arrivalTime": "2027-05-01 11:55",
+        "flightNumbers": [
+          "SQ 301",
+          "TR 570"
+        ]
+      }
+    ]
   }
 ]
