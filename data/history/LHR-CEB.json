@@ -1,1 +1,186 @@
-[]
+[
+  {
+    "fetchedAt": "2026-07-05T20:37:05.971Z",
+    "outboundDate": "2027-04-10",
+    "returnDate": "2027-05-01",
+    "currency": "GBP",
+    "cheapestPrice": 871,
+    "options": [
+      {
+        "airlines": [
+          "SWISS",
+          "Cathay Pacific"
+        ],
+        "price": 871,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 290
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1310,
+        "departureTime": "2027-04-10 06:00",
+        "arrivalTime": "2027-04-11 10:50",
+        "flightNumbers": [
+          "LX 345",
+          "CX 382",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1072,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 150
+          }
+        ],
+        "totalDurationMinutes": 1105,
+        "departureTime": "2027-04-10 14:25",
+        "arrivalTime": "2027-04-11 15:50",
+        "flightNumbers": [
+          "EK 2",
+          "EK 338"
+        ]
+      },
+      {
+        "airlines": [
+          "EVA Air"
+        ],
+        "price": 1078,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Suvarnabhumi Airport",
+            "code": "BKK",
+            "durationMinutes": 75
+          },
+          {
+            "airport": "Taiwan Taoyuan International Airport",
+            "code": "TPE",
+            "durationMinutes": 625
+          }
+        ],
+        "totalDurationMinutes": 1815,
+        "departureTime": "2027-04-10 21:35",
+        "arrivalTime": "2027-04-12 10:50",
+        "flightNumbers": [
+          "BR 68",
+          "BR 68",
+          "BR 281"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways",
+          "Philippine Airlines"
+        ],
+        "price": 1090,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 95
+          },
+          {
+            "airport": "Ninoy Aquino International Airport",
+            "code": "MNL",
+            "durationMinutes": 250
+          }
+        ],
+        "totalDurationMinutes": 1430,
+        "departureTime": "2027-04-10 15:05",
+        "arrivalTime": "2027-04-11 21:55",
+        "flightNumbers": [
+          "QR 4",
+          "PR 685",
+          "PR 2863"
+        ]
+      },
+      {
+        "airlines": [
+          "Malaysia Airlines",
+          "Firefly"
+        ],
+        "price": 1138,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Kuala Lumpur International Airport",
+            "code": "KUL",
+            "durationMinutes": 130
+          }
+        ],
+        "totalDurationMinutes": 1170,
+        "departureTime": "2027-04-10 11:00",
+        "arrivalTime": "2027-04-11 13:30",
+        "flightNumbers": [
+          "MH 3",
+          "FY 3692"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 1163,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 70
+          }
+        ],
+        "totalDurationMinutes": 1010,
+        "departureTime": "2027-04-10 18:20",
+        "arrivalTime": "2027-04-11 18:10",
+        "flightNumbers": [
+          "CX 250",
+          "CX 925"
+        ]
+      },
+      {
+        "airlines": [
+          "British Airways",
+          "Cathay Pacific"
+        ],
+        "price": 1184,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Munich International Airport",
+            "code": "MUC",
+            "durationMinutes": 140
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 65
+          }
+        ],
+        "totalDurationMinutes": 1155,
+        "departureTime": "2027-04-10 08:35",
+        "arrivalTime": "2027-04-11 10:50",
+        "flightNumbers": [
+          "BA 926",
+          "CX 300",
+          "CX 921"
+        ]
+      }
+    ]
+  }
+]

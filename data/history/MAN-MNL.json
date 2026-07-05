@@ -1,1 +1,208 @@
-[]
+[
+  {
+    "fetchedAt": "2026-07-05T20:36:40.145Z",
+    "outboundDate": "2027-04-10",
+    "returnDate": "2027-05-01",
+    "currency": "GBP",
+    "cheapestPrice": 739,
+    "options": [
+      {
+        "airlines": [
+          "SWISS",
+          "Philippine Airlines"
+        ],
+        "price": 739,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 50
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 85
+          }
+        ],
+        "totalDurationMinutes": 1115,
+        "departureTime": "2027-04-10 18:40",
+        "arrivalTime": "2027-04-11 20:15",
+        "flightNumbers": [
+          "LX 381",
+          "LX 138",
+          "PR 307"
+        ]
+      },
+      {
+        "airlines": [
+          "Gulf Air"
+        ],
+        "price": 788,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Bahrain International Airport",
+            "code": "BAH",
+            "durationMinutes": 110
+          }
+        ],
+        "totalDurationMinutes": 1025,
+        "departureTime": "2027-04-10 09:55",
+        "arrivalTime": "2027-04-11 10:00",
+        "flightNumbers": [
+          "GF 4",
+          "GF 154"
+        ]
+      },
+      {
+        "airlines": [
+          "Etihad"
+        ],
+        "price": 855,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Zayed International Airport",
+            "code": "AUH",
+            "durationMinutes": 500
+          }
+        ],
+        "totalDurationMinutes": 1470,
+        "departureTime": "2027-04-10 14:30",
+        "arrivalTime": "2027-04-11 22:00",
+        "flightNumbers": [
+          "EY 74",
+          "EY 446"
+        ]
+      },
+      {
+        "airlines": [
+          "Etihad"
+        ],
+        "price": 888,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Zayed International Airport",
+            "code": "AUH",
+            "durationMinutes": 135
+          }
+        ],
+        "totalDurationMinutes": 1125,
+        "departureTime": "2027-04-10 09:20",
+        "arrivalTime": "2027-04-11 11:05",
+        "flightNumbers": [
+          "EY 78",
+          "EY 440"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways",
+          "Philippine Airlines"
+        ],
+        "price": 903,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 105
+          }
+        ],
+        "totalDurationMinutes": 1100,
+        "departureTime": "2027-04-10 14:55",
+        "arrivalTime": "2027-04-11 16:15",
+        "flightNumbers": [
+          "QR 28",
+          "PR 685"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways"
+        ],
+        "price": 924,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 110
+          }
+        ],
+        "totalDurationMinutes": 1060,
+        "departureTime": "2027-04-10 21:40",
+        "arrivalTime": "2027-04-11 22:20",
+        "flightNumbers": [
+          "QR 24",
+          "QR 928"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways"
+        ],
+        "price": 956,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 165
+          }
+        ],
+        "totalDurationMinutes": 1115,
+        "departureTime": "2027-04-10 14:55",
+        "arrivalTime": "2027-04-11 16:30",
+        "flightNumbers": [
+          "QR 28",
+          "QR 932"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1107,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 190
+          }
+        ],
+        "totalDurationMinutes": 1150,
+        "departureTime": "2027-04-10 14:05",
+        "arrivalTime": "2027-04-11 16:15",
+        "flightNumbers": [
+          "EK 18",
+          "EK 332"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1107,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 125
+          }
+        ],
+        "totalDurationMinutes": 1070,
+        "departureTime": "2027-04-10 21:20",
+        "arrivalTime": "2027-04-11 22:10",
+        "flightNumbers": [
+          "EK 20",
+          "EK 334"
+        ]
+      }
+    ]
+  }
+]

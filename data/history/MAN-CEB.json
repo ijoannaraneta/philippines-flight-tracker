@@ -1,1 +1,186 @@
-[]
+[
+  {
+    "fetchedAt": "2026-07-05T20:36:52.270Z",
+    "outboundDate": "2027-04-10",
+    "returnDate": "2027-05-01",
+    "currency": "GBP",
+    "cheapestPrice": 1068,
+    "options": [
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 1068,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 80
+          }
+        ],
+        "totalDurationMinutes": 1000,
+        "departureTime": "2027-04-10 11:10",
+        "arrivalTime": "2027-04-11 10:50",
+        "flightNumbers": [
+          "CX 216",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "SWISS",
+          "Cathay Pacific"
+        ],
+        "price": 1166,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 90
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1130,
+        "departureTime": "2027-04-10 09:00",
+        "arrivalTime": "2027-04-11 10:50",
+        "flightNumbers": [
+          "LX 391",
+          "CX 382",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1210,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 150
+          }
+        ],
+        "totalDurationMinutes": 1125,
+        "departureTime": "2027-04-10 14:05",
+        "arrivalTime": "2027-04-11 15:50",
+        "flightNumbers": [
+          "EK 18",
+          "EK 338"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1210,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 1165
+          }
+        ],
+        "totalDurationMinutes": 2130,
+        "departureTime": "2027-04-10 21:20",
+        "arrivalTime": "2027-04-12 15:50",
+        "flightNumbers": [
+          "EK 20",
+          "EK 338"
+        ]
+      },
+      {
+        "airlines": [
+          "Finnair",
+          "Cathay Pacific"
+        ],
+        "price": 1352,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Helsinki Airport",
+            "code": "HEL",
+            "durationMinutes": 120
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 855
+          }
+        ],
+        "totalDurationMinutes": 2040,
+        "departureTime": "2027-04-10 17:50",
+        "arrivalTime": "2027-04-12 10:50",
+        "flightNumbers": [
+          "AY 1366",
+          "AY 99",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "KLM",
+          "China Airlines"
+        ],
+        "price": 1626,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Amsterdam Airport Schiphol",
+            "code": "AMS",
+            "durationMinutes": 165
+          },
+          {
+            "airport": "Taiwan Taoyuan International Airport",
+            "code": "TPE",
+            "durationMinutes": 115
+          }
+        ],
+        "totalDurationMinutes": 1325,
+        "departureTime": "2027-04-10 06:00",
+        "arrivalTime": "2027-04-11 11:05",
+        "flightNumbers": [
+          "KL 1028",
+          "CI 74",
+          "CI 705"
+        ]
+      },
+      {
+        "airlines": [
+          "KLM",
+          "Korean Air"
+        ],
+        "price": 4570,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Amsterdam Airport Schiphol",
+            "code": "AMS",
+            "durationMinutes": 85
+          },
+          {
+            "airport": "Incheon International Airport",
+            "code": "ICN",
+            "durationMinutes": 205
+          }
+        ],
+        "totalDurationMinutes": 1375,
+        "departureTime": "2027-04-10 17:35",
+        "arrivalTime": "2027-04-11 23:30",
+        "flightNumbers": [
+          "KL 1036",
+          "KE 926",
+          "KE 601"
+        ]
+      }
+    ]
+  }
+]
