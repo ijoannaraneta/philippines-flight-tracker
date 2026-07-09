@@ -961,5 +961,323 @@
         ]
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-07-09T10:02:52.379Z",
+    "outboundDate": "2027-04-30",
+    "returnDate": "2027-05-22",
+    "currency": "GBP",
+    "cheapestPrice": 675,
+    "options": [
+      {
+        "airlines": [
+          "Air China"
+        ],
+        "price": 675,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Beijing Capital International Airport",
+            "code": "PEK",
+            "durationMinutes": 200
+          }
+        ],
+        "totalDurationMinutes": 1120,
+        "departureTime": "2027-04-30 22:40",
+        "arrivalTime": "2027-05-02 00:20",
+        "flightNumbers": [
+          "CA 856",
+          "CA 179"
+        ]
+      },
+      {
+        "airlines": [
+          "Malaysia Airlines"
+        ],
+        "price": 723,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Kuala Lumpur International Airport",
+            "code": "KUL",
+            "durationMinutes": 175
+          }
+        ],
+        "totalDurationMinutes": 1205,
+        "departureTime": "2027-04-30 11:00",
+        "arrivalTime": "2027-05-01 14:05",
+        "flightNumbers": [
+          "MH 3",
+          "MH 704"
+        ]
+      },
+      {
+        "airlines": [
+          "Malaysia Airlines"
+        ],
+        "price": 723,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Kuala Lumpur International Airport",
+            "code": "KUL",
+            "durationMinutes": 355
+          }
+        ],
+        "totalDurationMinutes": 1385,
+        "departureTime": "2027-04-30 21:35",
+        "arrivalTime": "2027-05-02 03:40",
+        "flightNumbers": [
+          "MH 1",
+          "MH 708"
+        ]
+      },
+      {
+        "airlines": [
+          "SWISS",
+          "Cathay Pacific"
+        ],
+        "price": 733,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 65
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 235
+          }
+        ],
+        "totalDurationMinutes": 1275,
+        "departureTime": "2027-04-30 18:40",
+        "arrivalTime": "2027-05-01 22:55",
+        "flightNumbers": [
+          "LX 327",
+          "LX 138",
+          "CX 913"
+        ]
+      },
+      {
+        "airlines": [
+          "China Eastern"
+        ],
+        "price": 740,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Shanghai Pudong International Airport",
+            "code": "PVG",
+            "durationMinutes": 355
+          }
+        ],
+        "totalDurationMinutes": 1260,
+        "departureTime": "2027-04-30 21:20",
+        "arrivalTime": "2027-05-02 01:20",
+        "flightNumbers": [
+          "MU 552",
+          "MU 211"
+        ]
+      },
+      {
+        "airlines": [
+          "Lufthansa",
+          "Cathay Pacific"
+        ],
+        "price": 742,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Frankfurt Airport",
+            "code": "FRA",
+            "durationMinutes": 95
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 310
+          }
+        ],
+        "totalDurationMinutes": 1345,
+        "departureTime": "2027-04-30 17:30",
+        "arrivalTime": "2027-05-01 22:55",
+        "flightNumbers": [
+          "LH 915",
+          "LH 796",
+          "CX 913"
+        ]
+      },
+      {
+        "airlines": [
+          "Gulf Air"
+        ],
+        "price": 849,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Bahrain International Airport",
+            "code": "BAH",
+            "durationMinutes": 125
+          }
+        ],
+        "totalDurationMinutes": 1110,
+        "departureTime": "2027-04-30 10:00",
+        "arrivalTime": "2027-05-01 11:30",
+        "flightNumbers": [
+          "GF 2",
+          "GF 154"
+        ]
+      },
+      {
+        "airlines": [
+          "Kuwait Airways"
+        ],
+        "price": 865,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Kuwait International Airport",
+            "code": "KWI",
+            "durationMinutes": 50
+          }
+        ],
+        "totalDurationMinutes": 1000,
+        "departureTime": "2027-04-30 16:45",
+        "arrivalTime": "2027-05-01 16:25",
+        "flightNumbers": [
+          "KU 102",
+          "KU 417"
+        ]
+      },
+      {
+        "airlines": [
+          "Oman Air"
+        ],
+        "price": 877,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Muscat International Airport",
+            "code": "MCT",
+            "durationMinutes": 125
+          }
+        ],
+        "totalDurationMinutes": 1080,
+        "departureTime": "2027-04-30 20:50",
+        "arrivalTime": "2027-05-01 21:50",
+        "flightNumbers": [
+          "WY 102",
+          "WY 843"
+        ]
+      },
+      {
+        "airlines": [
+          "Etihad"
+        ],
+        "price": 878,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Zayed International Airport",
+            "code": "AUH",
+            "durationMinutes": 130
+          }
+        ],
+        "totalDurationMinutes": 1115,
+        "departureTime": "2027-04-30 09:30",
+        "arrivalTime": "2027-05-01 11:05",
+        "flightNumbers": [
+          "EY 62",
+          "EY 440"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 1001,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 55
+          }
+        ],
+        "totalDurationMinutes": 950,
+        "departureTime": "2027-04-30 20:15",
+        "arrivalTime": "2027-05-01 19:05",
+        "flightNumbers": [
+          "CX 256",
+          "CX 903"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1003,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 90
+          }
+        ],
+        "totalDurationMinutes": 1015,
+        "departureTime": "2027-04-30 22:15",
+        "arrivalTime": "2027-05-01 22:10",
+        "flightNumbers": [
+          "EK 6",
+          "EK 334"
+        ]
+      },
+      {
+        "airlines": [
+          "THAI"
+        ],
+        "price": 1017,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Suvarnabhumi Airport",
+            "code": "BKK",
+            "durationMinutes": 85
+          }
+        ],
+        "totalDurationMinutes": 975,
+        "departureTime": "2027-04-30 12:30",
+        "arrivalTime": "2027-05-01 11:45",
+        "flightNumbers": [
+          "TG 911",
+          "TG 620"
+        ]
+      },
+      {
+        "airlines": [
+          "British Airways",
+          "Cathay Pacific"
+        ],
+        "price": 1039,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 75
+          }
+        ],
+        "totalDurationMinutes": 1005,
+        "departureTime": "2027-04-30 19:20",
+        "arrivalTime": "2027-05-01 19:05",
+        "flightNumbers": [
+          "BA 31",
+          "CX 903"
+        ]
+      }
+    ]
   }
 ]
