@@ -2230,5 +2230,154 @@
         ]
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-07-21T09:07:43.631Z",
+    "outboundDate": "2027-04-30",
+    "returnDate": "2027-05-22",
+    "currency": "GBP",
+    "cheapestPrice": 794,
+    "options": [
+      {
+        "airlines": [
+          "SWISS",
+          "Cathay Pacific"
+        ],
+        "price": 794,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 90
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1130,
+        "departureTime": "2027-04-30 09:00",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "LX 391",
+          "CX 382",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 888,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 80
+          }
+        ],
+        "totalDurationMinutes": 1000,
+        "departureTime": "2027-04-30 11:10",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "CX 216",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways"
+        ],
+        "price": 1089,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 185
+          }
+        ],
+        "totalDurationMinutes": 1200,
+        "departureTime": "2027-04-30 14:55",
+        "arrivalTime": "2027-05-01 17:55",
+        "flightNumbers": [
+          "QR 28",
+          "QR 936"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1176,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 150
+          }
+        ],
+        "totalDurationMinutes": 1125,
+        "departureTime": "2027-04-30 14:05",
+        "arrivalTime": "2027-05-01 15:50",
+        "flightNumbers": [
+          "EK 18",
+          "EK 338"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1176,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 1165
+          }
+        ],
+        "totalDurationMinutes": 2130,
+        "departureTime": "2027-04-30 21:20",
+        "arrivalTime": "2027-05-02 15:50",
+        "flightNumbers": [
+          "EK 20",
+          "EK 338"
+        ]
+      },
+      {
+        "airlines": [
+          "Finnair",
+          "Cathay Pacific"
+        ],
+        "price": 1216,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Helsinki Airport",
+            "code": "HEL",
+            "durationMinutes": 120
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 855
+          }
+        ],
+        "totalDurationMinutes": 2040,
+        "departureTime": "2027-04-30 17:50",
+        "arrivalTime": "2027-05-02 10:50",
+        "flightNumbers": [
+          "AY 1366",
+          "AY 99",
+          "CX 921"
+        ]
+      }
+    ]
   }
 ]

@@ -1479,5 +1479,182 @@
         ]
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-07-21T09:07:53.410Z",
+    "outboundDate": "2027-04-30",
+    "returnDate": "2027-05-22",
+    "currency": "GBP",
+    "cheapestPrice": 768,
+    "options": [
+      {
+        "airlines": [
+          "SWISS",
+          "Cathay Pacific"
+        ],
+        "price": 768,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 105
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1145,
+        "departureTime": "2027-04-30 08:45",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "LX 317",
+          "CX 382",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Malaysia Airlines",
+          "Firefly"
+        ],
+        "price": 971,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Kuala Lumpur International Airport",
+            "code": "KUL",
+            "durationMinutes": 130
+          }
+        ],
+        "totalDurationMinutes": 1170,
+        "departureTime": "2027-04-30 11:00",
+        "arrivalTime": "2027-05-01 13:30",
+        "flightNumbers": [
+          "MH 3",
+          "FY 3692"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 983,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 70
+          }
+        ],
+        "totalDurationMinutes": 1010,
+        "departureTime": "2027-04-30 18:20",
+        "arrivalTime": "2027-05-01 18:10",
+        "flightNumbers": [
+          "CX 250",
+          "CX 925"
+        ]
+      },
+      {
+        "airlines": [
+          "British Airways",
+          "Cathay Pacific"
+        ],
+        "price": 1025,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 80
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1115,
+        "departureTime": "2027-04-30 09:15",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "BA 732",
+          "CX 382",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways"
+        ],
+        "price": 1056,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1075,
+        "departureTime": "2027-04-30 17:00",
+        "arrivalTime": "2027-05-01 17:55",
+        "flightNumbers": [
+          "QR 108",
+          "QR 936"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1071,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 150
+          }
+        ],
+        "totalDurationMinutes": 1105,
+        "departureTime": "2027-04-30 14:25",
+        "arrivalTime": "2027-05-01 15:50",
+        "flightNumbers": [
+          "EK 2",
+          "EK 338"
+        ]
+      },
+      {
+        "airlines": [
+          "EVA Air"
+        ],
+        "price": 1078,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Suvarnabhumi Airport",
+            "code": "BKK",
+            "durationMinutes": 75
+          },
+          {
+            "airport": "Taiwan Taoyuan International Airport",
+            "code": "TPE",
+            "durationMinutes": 625
+          }
+        ],
+        "totalDurationMinutes": 1815,
+        "departureTime": "2027-04-30 21:35",
+        "arrivalTime": "2027-05-02 10:50",
+        "flightNumbers": [
+          "BR 68",
+          "BR 68",
+          "BR 281"
+        ]
+      }
+    ]
   }
 ]
