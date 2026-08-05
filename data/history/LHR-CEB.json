@@ -2713,5 +2713,232 @@
         ]
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-08-05T09:17:23.777Z",
+    "outboundDate": "2027-04-30",
+    "returnDate": "2027-05-22",
+    "currency": "GBP",
+    "cheapestPrice": 795,
+    "options": [
+      {
+        "airlines": [
+          "SWISS",
+          "Cathay Pacific"
+        ],
+        "price": 795,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 105
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1145,
+        "departureTime": "2027-04-30 08:45",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "LX 317",
+          "CX 382",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "British Airways",
+          "Cathay Pacific"
+        ],
+        "price": 1004,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Manchester Airport",
+            "code": "MAN",
+            "durationMinutes": 205
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 80
+          }
+        ],
+        "totalDurationMinutes": 1265,
+        "departureTime": "2027-04-30 06:45",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "BA 1358",
+          "CX 216",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "British Airways",
+          "Cathay Pacific"
+        ],
+        "price": 1007,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Aéroport de Paris-Charles de Gaulle",
+            "code": "CDG",
+            "durationMinutes": 165
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 100
+          }
+        ],
+        "totalDurationMinutes": 1230,
+        "departureTime": "2027-04-30 07:20",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "BA 300",
+          "CX 260",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 1021,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 165
+          }
+        ],
+        "totalDurationMinutes": 1090,
+        "departureTime": "2027-04-30 17:00",
+        "arrivalTime": "2027-05-01 18:10",
+        "flightNumbers": [
+          "CX 238",
+          "CX 925"
+        ]
+      },
+      {
+        "airlines": [
+          "British Airways",
+          "Cathay Pacific"
+        ],
+        "price": 1025,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 80
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1115,
+        "departureTime": "2027-04-30 09:15",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "BA 732",
+          "CX 382",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 1029,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 70
+          }
+        ],
+        "totalDurationMinutes": 1010,
+        "departureTime": "2027-04-30 18:20",
+        "arrivalTime": "2027-05-01 18:10",
+        "flightNumbers": [
+          "CX 250",
+          "CX 925"
+        ]
+      },
+      {
+        "airlines": [
+          "Malaysia Airlines",
+          "Firefly"
+        ],
+        "price": 1037,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Kuala Lumpur International Airport",
+            "code": "KUL",
+            "durationMinutes": 130
+          }
+        ],
+        "totalDurationMinutes": 1170,
+        "departureTime": "2027-04-30 11:00",
+        "arrivalTime": "2027-05-01 13:30",
+        "flightNumbers": [
+          "MH 3",
+          "FY 3692"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways"
+        ],
+        "price": 1056,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1075,
+        "departureTime": "2027-04-30 17:00",
+        "arrivalTime": "2027-05-01 17:55",
+        "flightNumbers": [
+          "QR 108",
+          "QR 936"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1072,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 150
+          }
+        ],
+        "totalDurationMinutes": 1105,
+        "departureTime": "2027-04-30 14:25",
+        "arrivalTime": "2027-05-01 15:50",
+        "flightNumbers": [
+          "EK 2",
+          "EK 338"
+        ]
+      }
+    ]
   }
 ]
