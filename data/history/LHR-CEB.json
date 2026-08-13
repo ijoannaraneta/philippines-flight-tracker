@@ -3502,5 +3502,127 @@
         ]
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-08-13T07:59:34.372Z",
+    "outboundDate": "2027-04-30",
+    "returnDate": "2027-05-22",
+    "currency": "GBP",
+    "cheapestPrice": 966,
+    "options": [
+      {
+        "airlines": [
+          "Gulf Air",
+          "Philippine Airlines"
+        ],
+        "price": 966,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Bahrain International Airport",
+            "code": "BAH",
+            "durationMinutes": 370
+          },
+          {
+            "airport": "Ninoy Aquino International Airport",
+            "code": "MNL",
+            "durationMinutes": 335
+          }
+        ],
+        "totalDurationMinutes": 1765,
+        "departureTime": "2027-04-30 09:30",
+        "arrivalTime": "2027-05-01 21:55",
+        "flightNumbers": [
+          "GF 2",
+          "GF 154",
+          "PR 2863"
+        ]
+      },
+      {
+        "airlines": [
+          "Malaysia Airlines",
+          "Firefly"
+        ],
+        "price": 967,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Kuala Lumpur International Airport",
+            "code": "KUL",
+            "durationMinutes": 130
+          }
+        ],
+        "totalDurationMinutes": 1170,
+        "departureTime": "2027-04-30 11:00",
+        "arrivalTime": "2027-05-01 13:30",
+        "flightNumbers": [
+          "MH 3",
+          "FY 3692"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 1027,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 70
+          }
+        ],
+        "totalDurationMinutes": 1010,
+        "departureTime": "2027-04-30 18:20",
+        "arrivalTime": "2027-05-01 18:10",
+        "flightNumbers": [
+          "CX 250",
+          "CX 925"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways"
+        ],
+        "price": 1056,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1075,
+        "departureTime": "2027-04-30 17:00",
+        "arrivalTime": "2027-05-01 17:55",
+        "flightNumbers": [
+          "QR 108",
+          "QR 936"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1071,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 150
+          }
+        ],
+        "totalDurationMinutes": 1105,
+        "departureTime": "2027-04-30 14:25",
+        "arrivalTime": "2027-05-01 15:50",
+        "flightNumbers": [
+          "EK 2",
+          "EK 338"
+        ]
+      }
+    ]
   }
 ]
