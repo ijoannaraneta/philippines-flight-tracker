@@ -10891,5 +10891,253 @@
         ]
       }
     ]
+  },
+  {
+    "fetchedAt": "2026-10-31T12:53:08.217Z",
+    "outboundDate": "2027-04-30",
+    "returnDate": "2027-05-22",
+    "currency": "GBP",
+    "cheapestPrice": 979,
+    "options": [
+      {
+        "airlines": [
+          "Malaysia Airlines",
+          "Firefly"
+        ],
+        "price": 979,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Kuala Lumpur International Airport",
+            "code": "KUL",
+            "durationMinutes": 130
+          }
+        ],
+        "totalDurationMinutes": 1170,
+        "departureTime": "2027-04-30 11:00",
+        "arrivalTime": "2027-05-01 13:30",
+        "flightNumbers": [
+          "MH 3",
+          "FY 3692"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways"
+        ],
+        "price": 980,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 420
+          }
+        ],
+        "totalDurationMinutes": 1435,
+        "departureTime": "2027-04-30 11:00",
+        "arrivalTime": "2027-05-01 17:55",
+        "flightNumbers": [
+          "QR 10",
+          "QR 936"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways"
+        ],
+        "price": 1030,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1075,
+        "departureTime": "2027-04-30 17:00",
+        "arrivalTime": "2027-05-01 17:55",
+        "flightNumbers": [
+          "QR 108",
+          "QR 936"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 1063,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 70
+          }
+        ],
+        "totalDurationMinutes": 1010,
+        "departureTime": "2027-04-30 18:20",
+        "arrivalTime": "2027-05-01 18:10",
+        "flightNumbers": [
+          "CX 250",
+          "CX 925"
+        ]
+      },
+      {
+        "airlines": [
+          "Cathay Pacific"
+        ],
+        "price": 1063,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 835
+          }
+        ],
+        "totalDurationMinutes": 1775,
+        "departureTime": "2027-04-30 22:15",
+        "arrivalTime": "2027-05-02 10:50",
+        "flightNumbers": [
+          "CX 254",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Emirates"
+        ],
+        "price": 1075,
+        "stops": 1,
+        "layovers": [
+          {
+            "airport": "Dubai International Airport",
+            "code": "DXB",
+            "durationMinutes": 150
+          }
+        ],
+        "totalDurationMinutes": 1105,
+        "departureTime": "2027-04-30 14:25",
+        "arrivalTime": "2027-05-01 15:50",
+        "flightNumbers": [
+          "EK 2",
+          "EK 338"
+        ]
+      },
+      {
+        "airlines": [
+          "British Airways",
+          "Cathay Pacific"
+        ],
+        "price": 1080,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Manchester Airport",
+            "code": "MAN",
+            "durationMinutes": 205
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 80
+          }
+        ],
+        "totalDurationMinutes": 1265,
+        "departureTime": "2027-04-30 06:45",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "BA 1358",
+          "CX 216",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "British Airways",
+          "Cathay Pacific"
+        ],
+        "price": 1082,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Aéroport de Paris-Charles de Gaulle",
+            "code": "CDG",
+            "durationMinutes": 165
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 100
+          }
+        ],
+        "totalDurationMinutes": 1230,
+        "departureTime": "2027-04-30 07:20",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "BA 300",
+          "CX 260",
+          "CX 921"
+        ]
+      },
+      {
+        "airlines": [
+          "Qatar Airways",
+          "Philippine Airlines"
+        ],
+        "price": 1111,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Hamad International Airport",
+            "code": "DOH",
+            "durationMinutes": 95
+          },
+          {
+            "airport": "Ninoy Aquino International Airport",
+            "code": "MNL",
+            "durationMinutes": 135
+          }
+        ],
+        "totalDurationMinutes": 1325,
+        "departureTime": "2027-04-30 15:05",
+        "arrivalTime": "2027-05-01 20:10",
+        "flightNumbers": [
+          "QR 4",
+          "PR 685",
+          "PR 2861"
+        ]
+      },
+      {
+        "airlines": [
+          "SWISS",
+          "Cathay Pacific"
+        ],
+        "price": 1311,
+        "stops": 2,
+        "layovers": [
+          {
+            "airport": "Zurich Airport",
+            "code": "ZRH",
+            "durationMinutes": 105
+          },
+          {
+            "airport": "Hong Kong International Airport",
+            "code": "HKG",
+            "durationMinutes": 60
+          }
+        ],
+        "totalDurationMinutes": 1145,
+        "departureTime": "2027-04-30 08:45",
+        "arrivalTime": "2027-05-01 10:50",
+        "flightNumbers": [
+          "LX 317",
+          "CX 382",
+          "CX 921"
+        ]
+      }
+    ]
   }
 ]
